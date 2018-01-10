@@ -1,0 +1,159 @@
+{"vp1Rettrnno":null,"vp2Rettrnno":null,"fcmslrcapacity1":0,"fcmslrsrcstn1":null,"fcmslrdstnstn1":null,"fcmslrrev11":0,
+		"fcmslrwagtyp11":null,"fcmslrstatus1":"-1","fcmslrremarks1":null,"rcmslrcapacity1":0,"rcmslrsrcstn1":null,"rcmslrdstnstn1":null,
+		"rcmslrrev11":0,"rcmslrwagtyp11":null,"rcmslrstatus1":"-1","rcmslrremarks1":null,"mslrtype1":"-1","linkedTrain1":null,"linkedTrain2":null,
+		"linkedTrain3":null,"linkedTrain4":null,"linkedTrain5":null,"linkedTrain6":null,"linkedTrain7":null,"linkedTrain8":null,"linkedTrain9":null,
+		"transitStation1":null,"transitStation2":null,"transitStation3":null,"transitStation4":null,"transitStation5":null,"transitStation6":null,
+		"transitStation7":null,"transitStation8":null,"transitStation9":null,"destStn":"GAYA","friFlag":1,"monFlag":1,"satFlag":1,"scaleCode":"R",
+		"sourceStn":null,"sunFlag":1,"thuFlag":1,"trainNo":"12398","tueFlag":1,"wedFlag":1,"trainName":"MAHABODHI EXP",
+
+		"trnstpg":[
+
+		{"arrTime":-19800000,"dayCnt":1,"depTime":-19800000,"distance":0,"owningRly":"NR","stnCode":"NDLS","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":-19800000,"depTimeTS":24000000,"route":"0","stn_Div":"DLI",
+		"stn_Rly":"NR","zone":3,"system_DT":1496946600000,"train_Ver":16,
+		"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,
+		"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,
+		"emailid":null,"grade":null,"designation":null,"trainmaster":0},
+		
+		"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+
+		{"arrTime":-19800000,"dayCnt":1,"depTime":-19800000,"distance":132,
+		"owningRly":"NC","stnCode":"ALJN","trainno":null,"fslrquota":0.0,"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,
+		"arrTimeTS":30060000,"depTimeTS":30180000,"route":"0","stn_Div":"ALD","stn_Rly":"NC","zone":13,"system_DT":1496946600000,
+		"train_Ver":16,
+		"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,
+		"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,
+		"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,
+		"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},
+		"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+		{"arrTime":-19800000,"dayCnt":1,"depTime":-19800000,"distance":440,"owningRly":"NC","stnCode":"CNB","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":43500000,"depTimeTS":43800000,"route":"0","stn_Div":"ALD",
+		"stn_Rly":"NC","zone":13,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,
+		"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,
+		"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,
+		"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+		{"arrTime":-19800000,"dayCnt":1,"depTime":-19800000,"distance":634,"owningRly":"NC","stnCode":"ALD","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":52800000,"depTimeTS":53100000,"route":"0","stn_Div":"ALD",
+		"stn_Rly":"NC","zone":13,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,
+		"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,
+		"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,
+		"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+		{"arrTime":-19800000,"dayCnt":1,"depTime":-19800000,"distance":724,
+		"owningRly":"NC","stnCode":"BDL","trainno":null,"fslrquota":0.0,"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,
+		"arrTimeTS":60960000,"depTimeTS":61080000,"route":"0","stn_Div":"ALD","stn_Rly":"NC","zone":13,"system_DT":1496946600000,"train_Ver":16,
+		"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,
+		"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,
+		"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,
+		"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},
+		"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+		{"arrTime":-19800000,"dayCnt":1,"depTime":-19800000,"distance":786,"owningRly":"EC","stnCode":"MGS","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":64500000,"depTimeTS":65400000,"route":"0","stn_Div":"MGS",
+		"stn_Rly":"EC","zone":10,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,
+		"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,
+		"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,
+		"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+		{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":812,"owningRly":"EC","stnCode":"CDMR","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":-17040000,"depTimeTS":-16920000,"route":"0","stn_Div":"MGS",
+		"stn_Rly":"EC","zone":10,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,
+		"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,
+		"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,
+		"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+		{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":850,"owningRly":"EC","stnCode":"BBU","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":-15420000,"depTimeTS":-15300000,"route":"0","stn_Div":"MGS",
+		"stn_Rly":"EC","zone":10,"system_DT":1496946600000,
+		"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,
+		"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,
+		"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,
+		"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,
+		"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0}
+
+
+
+		,{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":872,"owningRly":"EC","stnCode":"KTQ","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":-14340000,"depTimeTS":-14220000,"route":"0","stn_Div":"MGS",
+		"stn_Rly":"EC","zone":10,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,
+		"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,
+		"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,
+		"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+		{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":897,
+		"owningRly":"EC","stnCode":"SSM","trainno":null,"fslrquota":0.0,"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,
+		"arrTimeTS":-13080000,"depTimeTS":-12960000,"route":"0","stn_Div":"MGS","stn_Rly":"EC","zone":10,"system_DT":1496946600000,"train_Ver":16,
+		"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,
+		"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,
+		"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,
+		"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},
+		"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+		{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":915,"owningRly":"EC","stnCode":"DOS","trainno":null,"fslrquota":0.0,"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":-12000000,"depTimeTS":-11880000,"route":"0","stn_Div":"MGS","stn_Rly":"EC","zone":10,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":932,"owningRly":"EC","stnCode":"AUBR","trainno":null,"fslrquota":0.0,"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,
+		"vp2Quota":0.0,"arrTimeTS":-11220000,"depTimeTS":-11100000,"route":"0","stn_Div":"MGS","stn_Rly":"EC","zone":10,"system_DT":1496946600000,
+		"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,
+		"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR",
+		"stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,
+		"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},
+		"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+		{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":963,"owningRly":"EC","stnCode":"RFJ","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":-9780000,"depTimeTS":-9660000,"route":"0","stn_Div":"MGS",
+		"stn_Rly":"EC","zone":10,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,
+		"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,
+		"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,
+		"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+		{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,
+		"distance":979,"owningRly":"EC","stnCode":"GRRU","trainno":null,"fslrquota":0.0,"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,
+		"vp2Quota":0.0,"arrTimeTS":-8880000,"depTimeTS":-8760000,"route":"0","stn_Div":"MGS","stn_Rly":"EC","zone":10,"system_DT":1496946600000,
+		"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,
+		"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR",
+		"stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,
+		"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},
+		"valid":1,"trnOwningRly":null,"validFrom":1496169000000,"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0},
+
+
+		{"arrTime":-19800000,"dayCnt":2,"depTime":-19800000,"distance":989,"owningRly":"EC","stnCode":"GAYA","trainno":null,"fslrquota":0.0,
+		"mslrquota":0.0,"rslrquota":0.0,"vp1Quota":0.0,"vp2Quota":0.0,"arrTimeTS":-8100000,"depTimeTS":-19800000,"route":"0","stn_Div":"MGS",
+		"stn_Rly":"EC","zone":10,"system_DT":1496946600000,"train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,
+		"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,
+		"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,
+		"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,
+		"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},"valid":1,"trnOwningRly":null,"validFrom":1496169000000,
+		"validTo":4102338600000,"enginereversalstop":0,"leaserestrictstn":0}],
+
+
+		"owningRly":"NR","decription":"NO.36-RD/PREMIER PARCEL SERVICE/13-14 /DUP/DT.31/05/2017","guage":"BG","luggBkngAllwd":"1","prclBkngAllwd":"1","trainDrctn":"UP","trainType":"SF","dstDistance":989,"dstStn":null,"srcStn":"NDLS","ltscalecode":"L","train_Ver":16,"usrVO":{"bookperm":null,"cash":null,"cashcltd":null,"cntrno":0,"currdate":null,"hqrs":null,"ipaddr":null,"loggedin":null,"psswd":null,"rlycode":null,"rlydet":null,"rlyno":null,"section":null,"sectiondet":null,"shift":null,"stnclass":null,"stncode":"NR","stnname":null,"userid":"CCMFM","username":null,"reglevel":0,"owner":null,"stn_div":null,"stn_rly":null,"adminperm":null,"crisstnno":null,"currformno":null,"last_no":null,"gdwnEntryDate":null,"apptype":null,"emailid":null,"grade":null,"designation":null,"trainmaster":0},"validity":1,"system_DT":1496946600000,"systemTS":null,"divCode":null,"trnValidFrom":1496169000000,"trnValidTo":4102338600000,"rajdhaniFlag":0,"durontoFlag":0,"shtabdiFlag":0,"fcfslrstatus":"AL","fcmslrstatus":"-1","fcrslrstatus":"PL","rcfslrstatus":"-1","rcmslrstatus":"-1","rcrslrstatus":"-1","viastn":"MGS(786)-ALD(634)-CNB(440)-BDL(724)-ALJN(132)-GRRU(979)-KTQ(872)-ALJN(132)","pmrly":"NR","maxload":0,"currentload":2,"fcfslrsrcstn":"NDLS","fcfslrdstnstn":"GAYA","fcfslrrev1":0,"fcfslrwagtyp1":null,"fcfslrremarks":null,"fcmslrsrcstn":"NDLS","fcmslrdstnstn":"GAYA","fcmslrrev1":0,"fcmslrwagtyp1":null,"fcmslrremarks":null,"fcrslrsrcstn":"NDLS","fcrslrdstnstn":"GAYA","fcrslrrev1":0,"fcrslrwagtyp1":null,"fcrslrremarks":null,"rcfslrsrcstn":null,"rcfslrdstnstn":null,"rcfslrrev1":0,"rcfslrwagtyp1":null,"rcfslrremarks":null,"rcmslrsrcstn":"NDLS","rcmslrdstnstn":"GAYA","rcmslrrev1":0,"rcmslrwagtyp1":null,"rcmslrremarks":null,"rcrslrsrcstn":null,"rcrslrdstnstn":null,"rcrslrrev1":0,
+		"rcrslrwagtyp1":null,"rcrslrremarks":null,"cmbfcgcsrcstn":"NDLS","cmbfcgcdstnstn":"GAYA","cmbfcgcrev1":0,"cmbfcgcwagtyp1":null,
+		"cmbfcgcstatus":"L","cmbfcgcremarks":null,"cmbvp1Srcstn":null,"cmbvp1Dstnstn":null,"cmbvp1Status":"-1","vp1Remarks":null,
+		"cmbvp2Srcstn":null,"cmbvp2Dstnstn":null,"cmbvp2Status":"-1","vp2Remarks":null,"fcfslrcapacity":3900,"fcmslrcapacity":0,
+		"fcrslrcapacity":3900,"rcfslrcapacity":0,"rcmslrcapacity":0,"rcrslrcapacity":0,"cmbfcgccapacity":1000,"cmbvp1Capacity":0,
+		"cmbvp2Capacity":0,"premiumFlag":0,"fslrtype":"WRRMDAC","mslrtype":"-1","rslrtype":"WLRRM","noofreversals":0,"cmbvp3Capacity":0,
+		"cmbvp3Srcstn":null,"cmbvp3Dstnstn":null,"cmbvp3Status":"-1","vp3Remarks":null,"vp3Rettrnno":null,"suvidhaFlag":0
+		
+	}
